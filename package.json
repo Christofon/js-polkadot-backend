@@ -1,0 +1,22 @@
+{
+  "name": "js-polkadot-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christofon/js-polkadot-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christofon/js-polkadot-backend/issues"
+  },
+  "homepage": "https://github.com/Christofon/js-polkadot-backend#readme",
+  "dependencies": {
+    "@polkadot/api": "^2.2.1"
+  }
+}
